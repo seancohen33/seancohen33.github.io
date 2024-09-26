@@ -4,7 +4,11 @@ layout: default
 
 # About
 
-I am an atmospheric scientist interested in using simple models of energy transfer in Earth’s atmosphere to explain our climate. My primary interests are rainfall, tropical convection, and radiative transfer. I currently work as a postdoctoral researcher with Robert Pincus and Lorenzo Polvani at the Lamont-Doherty Earth Observatory. 
+I am an atmospheric scientist interested in using simple models of energy transfer in Earth’s atmosphere to explain our climate. My primary interests are rainfall, tropical convection, and radiative transfer. 
+
+Currently, I work as a postdoctoral researcher with Robert Pincus and Lorenzo Polvani at the Lamont-Doherty Earth Observatory, studying how increases in atmospheric carbon dioxide impact the stratospheric lapse rate. Prior to this, I earned my PhD in Applied Math and Atmospheric Science at Columbia University under the mentorship of Adam Sobel and Michela Biasutti, where we used idealized models to understand the mechanisms controlling rainfall. 
+
+Before entering the climate space, I worked as a thermal engineer at Ball Aerospace, designing and analyzing cooling systems aboard satellites and aircraft. However, I soon discovered I enjoyed explaining complex systems more so than making them - and what better complex system to (try to) explain than Earth's climate. 
 
 # Publications
 
