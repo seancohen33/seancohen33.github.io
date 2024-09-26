@@ -2,7 +2,7 @@
 
 *Postdoctoral Research Scientist*
 
-![Thumbnail of Minimal](thumbnail.png)
+![Thumbnail of Minimal](IMG_2626.png)
 
 ## Usage
 
