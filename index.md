@@ -24,6 +24,7 @@ M.S.E and B.S.E. in Mechanical Engineering
 # CV
 
 [CV](./another-page.html).
+[CV](./CV.pdf).
 
 # Contact Information 
 
