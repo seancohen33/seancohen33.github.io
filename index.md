@@ -2,25 +2,17 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About
 
-[Link to another page](./another-page.html).
+I am an atmospheric scientist interested in using simple models of energy transfer in Earth’s atmosphere to explain our climate. My primary interests are rainfall, tropical convection, and radiative transfer. I currently work as a postdoctoral researcher with Robert Pincus and Lorenzo Polvani at the Lamont-Doherty Earth Observatory. 
 
-There should be whitespace between paragraphs.
+# Publications
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+*   Cohen, S., A. Sobel, M. Biasutti, S. Wang, I. Simpson, A. Gettelman, and I. Hu, 2024: Implementation and exploration of parametrizations of large-scale dynamics in NCAR's Single Column Atmosphere Model SCAM6. J. Adv. Model. Earth Syst., 16, e2023MS003866. doi:10.1029/2023MS003866.
 
-# Header 1
+# Education
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
+# Contact Information 
 
 ```js
 // Javascript code with syntax highlighting.
