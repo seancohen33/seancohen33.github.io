@@ -27,10 +27,10 @@ Before entering the climate space, I worked as a thermal engineer at Ball Aerosp
 - M.S.E and B.S.E. in Mechanical Engineering
   - _University of Pennsylvania_, 2013-2017
 
-# CV
+# Contact and CV
 
-[CV](./CV.pdf).
-
-# Contact Information 
-
-sean.cohen@columbia.edu
+* [CV](./CV.pdf)
+* [Google Scholar](https://scholar.google.com/citations?user=CrgpN20AAAAJ&hl=en&oi=ao)
+* [ORCiD](https://orcid.org/0009-0009-0377-6051)
+* [LinkedIn](https://www.linkedin.com/in/sean-cohen-514386104/)
+* sean.cohen@columbia.edu
