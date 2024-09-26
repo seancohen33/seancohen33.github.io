@@ -8,7 +8,7 @@ I am an atmospheric scientist interested in using simple models of energy transf
 
 # Publications
 
-*   **Cohen, S.**, A. Sobel, M. Biasutti, S. Wang, I. Simpson, A. Gettelman, and I. Hu, 2024: Implementation and exploration of parametrizations of large-scale dynamics in NCAR's Single Column Atmosphere Model SCAM6. J. Adv. Model. Earth Syst., 16, e2023MS003866. doi:10.1029/2023MS003866.
+*   **Cohen, S.**, A. Sobel, M. Biasutti, S. Wang, I. Simpson, A. Gettelman, and I. Hu, 2024: Implementation and exploration of parametrizations of large-scale dynamics in NCAR's Single Column Atmosphere Model SCAM6. _J. Adv. Model. Earth Syst._, 16, e2023MS003866. doi:10.1029/2023MS003866.
 
 # Education and Experience 
 
