@@ -12,13 +12,13 @@ I am an atmospheric scientist interested in using simple models of energy transf
 
 # Education and Experience 
 
-- Postdoctoral Research Scientist
+Postdoctoral Research Scientist
   - _Lamont-Doherty Earth Observatory_, 2024-Present
-- Ph.D. in Applied Math and Atmospheric Science
+Ph.D. in Applied Math and Atmospheric Science
   - _Columbia University_, 2020-2024
-- Associate Thermal Engineer
+Associate Thermal Engineer
   - _Ball Aerospace_, 2018-2020
-- M.S.E and B.S.E. in Mechanical Engineering
+M.S.E and B.S.E. in Mechanical Engineering
   - _University of Pennsylvania_, 2013-2017
 
 # CV
