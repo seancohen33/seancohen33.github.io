@@ -13,6 +13,7 @@ Currently, I work as a postdoctoral researcher with [Robert Pincus](https://crew
 *   **Cohen, S.**, R. Pincus, and L. Polvani, 2025: Why increases in CO2 cool the stratosphere and how this amplifies radiative forcing. _Nature. Geosci._, doi:10.21203/rs.3.rs-7608058/v1. (accepted)
 *   **Cohen, S.**, and R. Pincus, 2025: A spectroscopic theory for how mean rainfall changes with surface temperature. _Sci. Adv._, 11, eadv6191. doi:10.1126/sciadv.adv6191.
 *   **Cohen, S.**, M. Biasutti, and A. Sobel, 2025: Modeling tropical precipitation in a single column with a boundary layer forcing. _J. Atmos. Sci._, 82, 1615-1627, doi:10.1175/JAS-D-24-0111.1.
+*   **Cohen, S.**, 2025: Using Single Column Models to Understand the Mechanisms Controlling Rainfall. _Columbia Univ. ProQuest Dis. and Theses_
 *   **Cohen, S.**, A. Sobel, M. Biasutti, S. Wang, I. Simpson, A. Gettelman, and I. Hu, 2024: Implementation and exploration of parametrizations of large-scale dynamics in NCAR's Single Column Atmosphere Model SCAM6. _J. Adv. Model. Earth Syst._, 16, e2023MS003866. doi:10.1029/2023MS003866.
 *   **S. Cohen**, K. Weed, J. Lambert, “An Analytical Approximation for Temperature Distributions in Micro Pin Fin Arrays”, AIAA SciTech Forum and Exposition, 2020.
 *   J. D. Brown, J. N. Fernandez, **S. P. Cohen**, K. J. Kuchenbecker, “A Wrist-Squeezing Force-Feedback System for Robotic Surgery Training”, World Haptics Conference (WHC), pp. 107-112, 2017.
