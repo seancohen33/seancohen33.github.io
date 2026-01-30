@@ -10,7 +10,7 @@ Currently, I work as a postdoctoral researcher with [Robert Pincus](https://crew
 
 # Publications
 
-*   **Cohen, S.**, R. Pincus, and L. Polvani, 2025: Why increases in CO2 cool the stratosphere and how this amplifies radiative forcing. _Nature. Geosci._, doi:10.21203/rs.3.rs-7608058/v1. (accepted)
+*   **Cohen, S.**, R. Pincus, and L. Polvani, 2026: Why increases in CO2 cool the stratosphere and how this amplifies radiative forcing. _Nature. Geosci._, doi:10.21203/rs.3.rs-7608058/v1. (accepted)
 *   **Cohen, S.**, and R. Pincus, 2025: A spectroscopic theory for how mean rainfall changes with surface temperature. _Sci. Adv._, 11, eadv6191. doi:10.1126/sciadv.adv6191.
 *   **Cohen, S.**, M. Biasutti, and A. Sobel, 2025: Modeling tropical precipitation in a single column with a boundary layer forcing. _J. Atmos. Sci._, 82, 1615-1627, doi:10.1175/JAS-D-24-0111.1.
 *   **Cohen, S.**, 2025: Using Single Column Models to Understand the Mechanisms Controlling Rainfall. _Columbia Univ. ProQuest Dis. and Theses_
